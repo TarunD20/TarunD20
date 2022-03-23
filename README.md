@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TarunD20
 - 👀 I’m interested in solving a wide range of real world problems with data.
-- 🌱 I’m currently undertaking a Master of Statistics to learn and develop further my quantitative skill set.
+- 🌱 I’m currently undertaking a Master of Statistics.
